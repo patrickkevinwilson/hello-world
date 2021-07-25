@@ -1,2 +1,2 @@
 # hello-world
-The hello-worlds to end hello-worlds
+Whats new?  25/07/2021 - I have decided it is time to get back into programming...
